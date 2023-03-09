@@ -21,7 +21,7 @@
 title: Guille
 email: gmonmar2408@g.educaand.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Página de Guillermo Montero para la asignatura de IAW. 2º ASIR 2023
+  Esta es la página de Guillermo Montero para la asignatura de IAW. 2º ASIR 2023
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deadboyguille
